@@ -1,13 +1,13 @@
 [package]
 name = "gemblockchain"
-version = "0.2.0"
+version = "0.2.1"
 authors = ["DEADBLACKCLOVER <deadblackclover@protonmail.com>"]
 description = "Library to work with Gem blockchain"
 edition = "2018"
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/deadblackclover/gem-lib-rust"
-repository = "https://github.com/deadblackclover/gem-lib-rust"
+homepage = "https://gemchain.tech/"
+repository = "https://github.com/gemblockchain/gem-lib-rust"
 keywords = ["gem", "blockchain"]
 
 [dependencies]
